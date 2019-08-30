@@ -1,6 +1,6 @@
 # ubunomo
 
-(Ub)untu based Docker image with (No)de.js and (Mo)ngoDB inside.
+(Ubu)ntu based Docker image with (No)de.js and (Mo)ngoDB inside.
 
 ## Info
 
