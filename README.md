@@ -14,6 +14,11 @@
 
 ## Changelog
 
+* **1.1.0**
+
+  * Inited `/data/db/`
+  * Added simple connection test
+
 * **1.0.0**
 
   * First public version
