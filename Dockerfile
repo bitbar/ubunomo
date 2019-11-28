@@ -1,6 +1,6 @@
 # bitbar/ubunomo
 
-FROM bitbar/ubuno:1.0.0
+FROM bitbar/ubuno:2.0.0
 
 LABEL vendor="Bitbar Inc" \
       description="Ubuntu LTS based Docker image with Node.js and MongoDB inside."
