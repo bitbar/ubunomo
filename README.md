@@ -6,13 +6,18 @@
 
 * Based on [bitbar/ubuno](https://github.com/bitbar/ubuno) which has:
 
-  * Ubuntu LTS (18.04)
-  * Node.js LTS (12)
+  * Ubuntu LTS (22.04)
+  * Node.js LTS (14)
   * [learn more](https://github.com/bitbar/ubuno)
 
-* MongoDB 4.2
+* MongoDB 6.0
 
 ## Changelog
+
+* **3.0.0**
+
+  * Updated Node.js version to 14 LTS
+  * Updated MongoDB version to 6.0
 
 * **2.0.0**
 
